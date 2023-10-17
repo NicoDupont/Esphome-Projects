@@ -6,3 +6,5 @@
   - [ikea vindriktning domotisation et ajouts sensors](https://github.com/NicoDupont/esp_ikea_vindriktning) esp01s, bme280, ccs811, mics5524, pm1006 
   - [Gestion Remplissage d'une cuve d'eau](https://github.com/NicoDupont/esp_remplissage_cuve) esp01s relay dht22
   - [Monitoring du garage + gestion portail automatique](https://github.com/NicoDupont/Monitoring_garage) esp32 relay dht22 am312 TSL2561 dry contact button
+  - [Monitoring Arrosage](https://github.com/NicoDupont/Monitoring_Arrosage) esp32 relais, pression, bme280, pcf8575
+  - [Energy Meter Hiking dds238-2-zn modbis rs485](https://github.com/NicoDupont/Esphome-Hiking-DDS238-2-ZN-S-RS485) esp32 rs485
