@@ -9,3 +9,4 @@
   - [Monitoring Arrosage](https://github.com/NicoDupont/Monitoring_Arrosage) esp32 relais, pression, bme280, pcf8575
   - [Energy Meter Hiking dds238-2-zn modbus rs485](https://github.com/NicoDupont/Esphome-Hiking-DDS238-2-ZN-S-RS485) esp32 rs485
   - [Energy Meter Easton SDM120CT modbus rs485](https://github.com/NicoDupont/Esphome-Easton-SDM120CT-RS485) esp32 rs485
+  - [Pool Monitoring](https://github.com/NicoDupont/esp_gestion_piscine) esp32 pcb diy pzem004t relay
